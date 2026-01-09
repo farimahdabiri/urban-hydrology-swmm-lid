@@ -46,4 +46,3 @@ Focus: GIS-based spatial modelling, environmental data analysis, and climate-res
 
 ---
 
-*This repository is intended for academic and research purposes.*
