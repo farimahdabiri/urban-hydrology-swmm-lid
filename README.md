@@ -31,9 +31,11 @@ This repository presents an academic project focused on urban hydrology modellin
 - GIS (QGIS)
 - Spatial data preprocessing
 - Scenario-based hydrological modelling
-  #<img width="490" height="295" alt="image" src="https://github.com/user-attachments/assets/989d9aa3-c5b3-4118-b7a4-f62e2bb266bc" />
-#<img width="864" height="529" alt="image" src="https://github.com/user-attachments/assets/00affefd-a361-4b7f-ac0c-c5db2197680f" />
-#<img width="1147" height="391" alt="image" src="https://github.com/user-attachments/assets/61852298-cf88-44be-801b-c462f35f7375" />
+
+  
+<img width="490" height="295" alt="image" src="https://github.com/user-attachments/assets/989d9aa3-c5b3-4118-b7a4-f62e2bb266bc" />
+<img width="864" height="529" alt="image" src="https://github.com/user-attachments/assets/00affefd-a361-4b7f-ac0c-c5db2197680f" />
+<img width="1133" height="377" alt="image" src="https://github.com/user-attachments/assets/66737d4f-0d39-4467-8908-d119eee82035" />
 
 
 ## Key Outcomes
