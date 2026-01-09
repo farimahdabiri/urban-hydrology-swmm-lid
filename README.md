@@ -12,6 +12,8 @@ This repository presents an academic project focused on urban hydrology modellin
 - Urban catchment with mixed land-use characteristics
 - Rainfall inputs derived from observed or design storm events
 - Spatial inputs prepared using GIS-based preprocessing
+#<img width="1244" height="622" alt="image" src="https://github.com/user-attachments/assets/12caab8e-2335-4807-94d0-007deb25fac0" />
+
 
 ## Methodology
 1. Delineation of sub-catchments and drainage network
