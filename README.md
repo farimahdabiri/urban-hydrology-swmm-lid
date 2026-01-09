@@ -58,6 +58,7 @@ This project was developed as part of a university-level course/research activit
 Farimah Dabiri  
 MSc Urban & Regional Planning  
 professor: Stefen ferrari
+
 Focus: GIS-based spatial modelling, environmental data analysis, and climate-resilient infrastructure
 
 ---
