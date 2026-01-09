@@ -13,7 +13,7 @@ This repository presents an academic project focused on urban hydrology modellin
 - Rainfall inputs derived from observed or design storm events
 - Spatial inputs prepared using GIS-based preprocessing
   
- #<img width="497" height="356" alt="image" src="https://github.com/user-attachments/assets/2dfc81ef-2e5d-417e-ad33-2ba743326a4e" />
+ <img width="497" height="356" alt="image" src="https://github.com/user-attachments/assets/2dfc81ef-2e5d-417e-ad33-2ba743326a4e" />
 
 
 ## Methodology
@@ -23,7 +23,7 @@ This repository presents an academic project focused on urban hydrology modellin
 4. Implementation of LID scenarios (e.g., green roofs, permeable pavements)
 5. Comparative analysis of runoff volume, peak discharge, and flood response
 
-#<img width="1143" height="496" alt="image" src="https://github.com/user-attachments/assets/6670dfe4-cc41-4f6b-ad43-5f4d05eb7fa1" />
+<img width="1143" height="496" alt="image" src="https://github.com/user-attachments/assets/6670dfe4-cc41-4f6b-ad43-5f4d05eb7fa1" />
 
 
 ## Tools and Technologies
