@@ -12,8 +12,7 @@ This repository presents an academic project focused on urban hydrology modellin
 - Urban catchment with mixed land-use characteristics
 - Rainfall inputs derived from observed or design storm events
 - Spatial inputs prepared using GIS-based preprocessing
-#<img width="1244" height="622" alt="image" src="https://github.com/user-attachments/assets/12caab8e-2335-4807-94d0-007deb25fac0" />
-
+  #<img width="497" height="356" alt="image" src="https://github.com/user-attachments/assets/2dfc81ef-2e5d-417e-ad33-2ba743326a4e" />
 
 ## Methodology
 1. Delineation of sub-catchments and drainage network
@@ -22,11 +21,17 @@ This repository presents an academic project focused on urban hydrology modellin
 4. Implementation of LID scenarios (e.g., green roofs, permeable pavements)
 5. Comparative analysis of runoff volume, peak discharge, and flood response
 
+#<img width="1143" height="496" alt="image" src="https://github.com/user-attachments/assets/6670dfe4-cc41-4f6b-ad43-5f4d05eb7fa1" />
+
 ## Tools and Technologies
 - EPA SWMM
 - GIS (QGIS)
 - Spatial data preprocessing
 - Scenario-based hydrological modelling
+  #<img width="490" height="295" alt="image" src="https://github.com/user-attachments/assets/989d9aa3-c5b3-4118-b7a4-f62e2bb266bc" />
+#<img width="864" height="529" alt="image" src="https://github.com/user-attachments/assets/00affefd-a361-4b7f-ac0c-c5db2197680f" />
+#<img width="1147" height="391" alt="image" src="https://github.com/user-attachments/assets/61852298-cf88-44be-801b-c462f35f7375" />
+
 
 ## Key Outcomes
 - Quantitative comparison of runoff reduction across scenarios
