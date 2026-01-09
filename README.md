@@ -50,10 +50,6 @@ This repository presents an academic project focused on urban hydrology modellin
 <img width="917" height="520" alt="image" src="https://github.com/user-attachments/assets/38edfb00-6532-441b-a2ce-d0c43b64d340" />
 
 
-## Repository Structure
-- `docs/` – Project documentation and figures  
-- `HY_TEAM12_POSTER.pdf` – Academic poster summarizing methodology and results  
-- `hy presentation.pdf` – Project presentation slides  
 
 ## Academic Context
 This project was developed as part of a university-level course/research activity in urban hydrology and environmental modelling. It demonstrates applied skills in hydrological simulation, spatial analysis, and scenario-based assessment relevant to climate-resilient infrastructure planning.
