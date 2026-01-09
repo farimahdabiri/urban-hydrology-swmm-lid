@@ -36,12 +36,19 @@ This repository presents an academic project focused on urban hydrology modellin
 <img width="490" height="295" alt="image" src="https://github.com/user-attachments/assets/989d9aa3-c5b3-4118-b7a4-f62e2bb266bc" />
 <img width="864" height="529" alt="image" src="https://github.com/user-attachments/assets/00affefd-a361-4b7f-ac0c-c5db2197680f" />
 <img width="1133" height="377" alt="image" src="https://github.com/user-attachments/assets/66737d4f-0d39-4467-8908-d119eee82035" />
+<img width="838" height="728" alt="image" src="https://github.com/user-attachments/assets/4ebe82b2-91c1-4fe4-9001-fe3921811df7" />
 
 
 ## Key Outcomes
 - Quantitative comparison of runoff reduction across scenarios
 - Improved understanding of LID impacts on urban flood mitigation
 - Demonstration of integrated GIS–hydrological modelling workflow
+
+<img width="823" height="622" alt="image" src="https://github.com/user-attachments/assets/7ca3ce2f-8237-4359-8267-437a74448cd2" />
+<img width="914" height="616" alt="image" src="https://github.com/user-attachments/assets/a87825e8-8594-4f73-b157-5c8d911a9ac0" />
+<img width="827" height="599" alt="image" src="https://github.com/user-attachments/assets/7003000d-6a17-43a9-8528-27509e0a098e" />
+<img width="917" height="520" alt="image" src="https://github.com/user-attachments/assets/38edfb00-6532-441b-a2ce-d0c43b64d340" />
+
 
 ## Repository Structure
 - `docs/` – Project documentation and figures  
